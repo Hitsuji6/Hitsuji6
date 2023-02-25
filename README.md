@@ -1,1 +1,3 @@
-![Screenshot](Hitsuji6/CSS.png)
+![Screenshot](HTML.png)
+![Screenshot](CSS.png)
+![Screenshot](JS.png)
